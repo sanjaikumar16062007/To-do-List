@@ -1,0 +1,24 @@
+body {
+  height: 100vh;
+  background: url("https://4kwallpapers.com/images/walls/thumbs_3t/5419.jpg") no-repeat center/cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial;
+}
+
+.card {
+  width: 350px;
+  padding: 20px;
+  border-radius: 20px;
+  background: rgba(255,255,255,0.1);
+  backdrop-filter: blur(10px);
+  color: white;
+}
+
+.product-card {
+  background: rgba(255,255,255,0.2);
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 10px;
+}

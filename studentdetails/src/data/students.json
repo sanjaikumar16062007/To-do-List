@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Sanjai", "course": "CSE", "image": "https://randomuser.me/api/portraits/men/32.jpg", "attendance": 220, "totalDays": 250, "father": "9876543210", "mother": "9123456780" },
+  { "id": 2, "name": "Arjun", "course": "IT", "image": "https://randomuser.me/api/portraits/men/45.jpg", "attendance": 210, "totalDays": 250, "father": "9000000001", "mother": "9000000002" },
+  { "id": 3, "name": "Priya", "course": "ECE", "image": "https://randomuser.me/api/portraits/women/65.jpg", "attendance": 230, "totalDays": 250, "father": "9000000003", "mother": "9000000004" },
+  { "id": 4, "name": "Rahul", "course": "CSE", "image": "https://randomuser.me/api/portraits/men/12.jpg", "attendance": 200, "totalDays": 250, "father": "9000000005", "mother": "9000000006" },
+  { "id": 5, "name": "Kiran", "course": "IT", "image": "https://randomuser.me/api/portraits/men/22.jpg", "attendance": 215, "totalDays": 250, "father": "9000000007", "mother": "9000000008" },
+  { "id": 6, "name": "Meena", "course": "ECE", "image": "https://randomuser.me/api/portraits/women/23.jpg", "attendance": 225, "totalDays": 250, "father": "9000000009", "mother": "9000000010" },
+  { "id": 7, "name": "Divya", "course": "CSE", "image": "https://randomuser.me/api/portraits/women/44.jpg", "attendance": 240, "totalDays": 250, "father": "9000000011", "mother": "9000000012" },
+  { "id": 8, "name": "Vikram", "course": "IT", "image": "https://randomuser.me/api/portraits/men/55.jpg", "attendance": 205, "totalDays": 250, "father": "9000000013", "mother": "9000000014" },
+  { "id": 9, "name": "Anitha", "course": "ECE", "image": "https://randomuser.me/api/portraits/women/12.jpg", "attendance": 235, "totalDays": 250, "father": "9000000015", "mother": "9000000016" },
+  { "id": 10, "name": "Karthik", "course": "CSE", "image": "https://randomuser.me/api/portraits/men/77.jpg", "attendance": 198, "totalDays": 250, "father": "9000000017", "mother": "9000000018" }
+]
